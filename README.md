@@ -1,11 +1,11 @@
 # Email-Spam-Filter
 Email Spam Classifier on Python 
-import os
-from pylab import *
-import matplotlib.pyplot as plt
-%matplotlib inline 
+	import os
+	from pylab import *
+	import matplotlib.pyplot as plt
+	%matplotlib inline 
 
-from helper import *
+	from helper import *
 
 
 
